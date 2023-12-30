@@ -3,3 +3,4 @@
 .dart_tool/
 bin/feelworld_api.exe
 wireshark/connect_log.pcapng
+~$output.xlsx
